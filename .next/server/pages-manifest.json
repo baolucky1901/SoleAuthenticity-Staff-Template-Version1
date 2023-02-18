@@ -1,0 +1,9 @@
+{
+  "/_app": "pages/_app.js",
+  "/_error": "pages/_error.js",
+  "/_document": "pages/_document.js",
+  "/management/shoechecks": "pages/management/shoechecks.js",
+  "/404": "pages/404.js",
+  "/management/transactions": "pages/management/transactions.js",
+  "/management/transactions/details/accepted/[oId]": "pages/management/transactions/details/accepted/[oId].js"
+}
